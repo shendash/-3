@@ -1,0 +1,11 @@
+header{
+    font-size: 48px;
+    text-align:center;
+}
+main{
+    text-align: left;
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color: green ;
+}
